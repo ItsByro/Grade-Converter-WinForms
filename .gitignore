@@ -1,0 +1,13 @@
+# Build output
+bin/
+obj/
+
+# SharpDevelop files
+*.user
+*.suo
+.vs/
+*.pidb
+
+# OS stuff
+Thumbs.db
+Desktop.ini
